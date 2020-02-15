@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\steve\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\steve\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Prototype 3.202674330.00" t="ExcludeRecursive" />
+    <e p="D:\OneDrive - MBO Utrecht\Gamedevelopment\Prototype 3\Prototype 3" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Challenge 3" t="Include">
+          <e p="_Source_Files" t="Include">
+            <e p="SpinObjectsX.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="MoveLeftX.cs" t="Include" />
+            <e p="PlayerControllerX.cs" t="Include" />
+            <e p="RepeatBackgroundX.cs" t="Include" />
+            <e p="SpawnManagerX.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Course Library" t="Include">
+          <e p="_Source_Files" t="Include">
+            <e p="_LICENSE.txt" t="Include" />
+            <e p="Materials" t="Include">
+              <e p="UnlitVertexColour_Alpha.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="MoveLeft.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="RepeatBackground.cs" t="Include" />
+          <e p="SpawnManager.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Prototype 3.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
